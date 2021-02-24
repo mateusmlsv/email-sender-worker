@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.docker.com/" target="blank"><img src="./docker.png" width="320" alt="Docker Logo" /></a>
+</p>
+
 # Getting started
 
 ## Installation
